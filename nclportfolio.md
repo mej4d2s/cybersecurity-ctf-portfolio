@@ -1,11 +1,12 @@
 # National Cyber League Portfolio – Fall 2024  
 Created by Matthew E. Johs
+
 ----------------------------------------
 ## Why I Became Interested in Cybersecurity
 My career path hasn’t been linear. I started in chemical engineering, served in the Navy, and eventually realized that the one field where my analytical strengths, structured thinking (ISTJ), and love of problem-solving truly aligned was cybersecurity.
 
 After discovering SANS, earning GSEC, GCIH, and completing Network+ and Security+, I found that Capture The Flag competitions like NCL gave me the first environment where all of that knowledge came together in a hands-on, applied way. CTFs don’t reward memorization. They reward persistence, pattern recognition, strategic thinking, and a willingness to fail fast and try again. That is where I thrive.
-----------------------------------------
+
 ----------------------------------------
 ## Reflection on My NCL Experience
 NCL was one of the most valuable practical experiences I have had so far. It exposed me to real-world problems in OSINT, forensics, network analysis, web exploitation, cryptography, password cracking, enumeration, and log analysis.
@@ -32,24 +33,23 @@ Some examples of challenges I worked through this season:
   Working with SSH logs, Windows Event Logs, and web server logs helped me see how defenders identify lateral movement and detect anomalies that would otherwise be lost in noise.  
   Learning Outcome: Mastered the ability to quickly process massive log files to identify security incidents and piece together attack timelines.
 
-
 NCL also helped me benchmark my progress in a measurable, competitive environment. It showed me exactly where I was strong (OSINT, forensics, enumeration) and where I needed to sharpen my skills (advanced web exploitation and more complex binary reversing).
-----------------------------------------
+
 ----------------------------------------
 ## NCL Scouting Report
-NCL Fall 2025 Individual Game Scouting Report
+NCL Fall 2025 Individual Game Scouting Report  
 http://cyberskyline.com/report/A9GP2AXVG5X4
 
-NCL Fall 2025 Team Game Scouting Report 
+NCL Fall 2025 Team Game Scouting Report  
 http://cyberskyline.com/report/0BCC1VN14XQG
-----------------------------------------
-----------------------------------------
-NCL Fall 2025 Season
 
-Individual Game: Competed across 9 challenge categories
-Team Game: Collaborative competition solving 39 challenges (188 total questions)
-Environment: Kali Linux ARM64 on Apple Silicon (VMware Fusion Pro)
 ----------------------------------------
+## NCL Fall 2025 Season
+
+Individual Game: Competed across 9 challenge categories  
+Team Game: Collaborative competition solving 39 challenges (188 total questions)  
+Environment: Kali Linux ARM64 on Apple Silicon (VMware Fusion Pro)
+
 ----------------------------------------
 ## Highlights From My CTF Participation
 
@@ -62,11 +62,11 @@ Environment: Kali Linux ARM64 on Apple Silicon (VMware Fusion Pro)
 4. Completing my first full NCL Team Game and learning how to divide tasks, communicate findings, and manage time in a competitive, high-pressure environment.
 
 5. Applying SANS-level skills from GSEC, networking fundamentals, and my degree coursework directly to live competition problems in areas like Wireshark analysis and vulnerability assessment.
-----------------------------------------
-----------------------------------------
-Notable Challenge Solutions
 
-1. Password Cracking – LM/NTLM Hash Recovery
+----------------------------------------
+## Notable Challenge Solutions
+
+1. Password Cracking – LM/NTLM Hash Recovery  
 Challenge: Recover three user passwords from Windows LM/NTLM hash dumps by identifying patterns and optimizing attack methods.
 
 Summary of Approach:
@@ -78,7 +78,7 @@ Summary of Approach:
     Outcome:
     All three passwords recovered in under ten minutes.
 
-2. Mainframe Forensics – RACF Password Recovery
+2. Mainframe Forensics – RACF Password Recovery  
 Challenge: Extract and crack a RACF password from an encoded XMI mainframe dataset.
 
 Summary of Approach:
@@ -90,9 +90,9 @@ Summary of Approach:
 
     Outcome:
     Successfully reconstructed the data workflow and recovered the RACF password.
+
 ----------------------------------------
-----------------------------------------
-Problem-Solving Methodology
+## Problem-Solving Methodology
 My approach to CTF challenges follows a systematic pattern:
 
 - Initial Assessment: Quickly evaluate challenge requirements and available resources
@@ -104,9 +104,9 @@ My approach to CTF challenges follows a systematic pattern:
 
     Outcome:
     A consistent approach that reduces wasted effort, improves accuracy, and increases overall competition performance.
+
 ----------------------------------------
-----------------------------------------
-Competition Strategy
+## Competition Strategy
 Through NCL competitions, I learned that success requires:
 
 - Balancing speed with accuracy when attempts are limited
@@ -117,9 +117,9 @@ Through NCL competitions, I learned that success requires:
 
     Outcome:
     Strengthened strategic decision-making and adaptability in high-pressure scenarios.
+
 ----------------------------------------
-----------------------------------------
-Professional Development
+## Professional Development
 My participation in NCL complements my formal cybersecurity education:
 
 - Completed: CompTIA Security+ and Network+
@@ -131,9 +131,9 @@ My participation in NCL complements my formal cybersecurity education:
 
     Outcome:
     Reinforced academic learning with applied experience, improving technical capability and professional readiness.
+
 ----------------------------------------
-----------------------------------------
-Key Takeaways
+## Key Takeaways
 The most important lessons from my NCL experience include:
 
 - Efficiency Over Complexity: Direct, simple methods often outperform overengineered solutions
@@ -146,6 +146,6 @@ The most important lessons from my NCL experience include:
 
     Outcome:
     A clearer understanding of how cybersecurity principles translate to real investigations, attacker behavior, and defensive analysis.
-----------------------------------------
 
+----------------------------------------
 This portfolio represents my journey through competitive cybersecurity and demonstrates practical skills in offensive security, digital forensics, and threat analysis. The challenges completed reflect real-world scenarios in penetration testing, incident response, and security operations.
